@@ -2,7 +2,7 @@ pond — a minimal and fast static site generator
 ===
 # note
 
-Im making a better version of this in my [[https://github.com/404salad/blog](blog)](https://github.com/404salad/pond_ssg)
+Im making a better version of this at https://github.com/404salad/pond_ssg
 
 ### usage 
 just add all your blogs in .md format to the content directory then the dist folder will have your website
